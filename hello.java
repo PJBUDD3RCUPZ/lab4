@@ -1,5 +1,3 @@
-package lab4;
-
 public class Hello {
     public static void main(String[] args) {
         for (int i = 1; i <= 6; i++) {
@@ -9,4 +7,4 @@ public class Hello {
 }
 
 // change to make newBranch different
-//jenkins change #4
+//changes for jenkins #2
